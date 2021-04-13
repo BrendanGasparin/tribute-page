@@ -1,6 +1,22 @@
+body {
+  font-family: sans-serif;
+  background: black;
+  color: white;
+}
+  
+h1 {
+  font-size: 84px;
+  font-family: "Comic Sans", "Patrick Hand", sans-serif;
+  text-shadow: 4px 4px 10px red;
+}
+  
+.to-tribute {
+  font-size: 36px;
+  font-family: "Comic Sans", "Patrick Hand", sans-serif;
+}
+
 #main {
   font-family: sans-serif;
-  color: white;
   text-align: center;
 }
   
@@ -9,21 +25,4 @@
   margin: auto;
   max-width: 100%;
   height: auto;
-}
-  
-body {
-  font-family: sans-serif;
-  background: black;
-}
-  
-h1 {
-  color: white;
-  font-size: 72px;
-  font-family: "Comic Sans", "Patrick Hand", sans-serif;
-  text-shadow: 4px 4px 10px red;
-}
-  
-.to-tribute {
-  font-size: 36px;
-  font-family: "Comic Sans", "Patrick Hand", sans-serif;
 }
